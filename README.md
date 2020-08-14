@@ -7,6 +7,8 @@ Blade is an example child theme using [Handle](https://github.com/adampatterson/
  * OOP API calls
  * Serve data through the REST API
  * Custom URL Rewrites
+ * Widgets
+ * Customizer
 
 **Blade will require a few plugins to run:**
 
