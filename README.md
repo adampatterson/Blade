@@ -14,3 +14,7 @@ Blade is an example child theme using [Handle](https://github.com/adampatterson/
 
  * Advanced Custom Fields
  * Custom Post Type UI
+
+#### Local Development
+
+    ln -s ~/Sites/personal/Blade ~/Sites/personal/wordpress.test/wp-content/themes
